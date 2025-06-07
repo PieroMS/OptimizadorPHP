@@ -29,6 +29,8 @@ http://localhost:8000/api/datos
 
 - Se creó un service llamado DatosService para separar la logica de negocio.
 
+- Se implementó cache para acelerar la consulta
+
 - Se optimizó las tres consultas en una.
 
 - Se usó eloquent de Laravel.
