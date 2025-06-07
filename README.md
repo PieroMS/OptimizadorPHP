@@ -20,6 +20,11 @@ php artisan serve
 http://localhost:8000/api/documentation
 ```
 
+-O porbar directamente de:
+```
+http://localhost:8000/api/datos
+```
+
 # Optimizacion:
 
 - Se creó un service llamado DatosService para separar la logica de negocio.
